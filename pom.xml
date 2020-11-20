@@ -78,8 +78,8 @@
     </distributionManagement>
 
     <scm>
-        <connection>scm:git:git@github.com:tdbrd/devops.git</connection>
-        <developerConnection>scm:git:git@github.com:tdbrd/devops.git</developerConnection>
+        <connection>scm:git::git@github.com:tdbrd/devops.git</connection>
+        <developerConnection>scm:git::git@github.com:tdbrd/devops.git</developerConnection>
         <tag>HEAD</tag>
         <url>git@github.com/tdbrd/devops.git</url>
     </scm>
